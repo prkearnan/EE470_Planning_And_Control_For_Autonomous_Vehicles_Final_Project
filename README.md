@@ -1,6 +1,6 @@
 EE 470 Final Project — Lateral Controller Comparison in CARLA
 
-**Authors:** Preston Kearnan & Chess Zepp
+**Authors:** Preston Kearnan & Ches Zepp
 
 ## Overview
 Implements and compares PID and Pure Pursuit lateral controllers for autonomous
