@@ -24,6 +24,6 @@ Switch between controllers by setting `CONTROLLER = "PID"` or `CONTROLLER = "PP"
 
 ## Test Routes
 Set `SPAWN_INDEX` and `GOAL_WAYPOINT` in the script to select a route:
-"Hook" - 9 and 91
-"Half Roundabout" - 0 and 24
-"Hills" - 46 adn 52
+- "Hook" - 9 and 91
+- "Half Roundabout" - 0 and 24
+- "Hills" - 46 adn 52
